@@ -147,10 +147,10 @@ section{
     color: yellow;
 }
 
-.contact{
+.footer__link:last-child{
     border-right: none;
 }
-.contact:hover{
+.footer__link:last-child:hover{
     border-right: none;
 }
 
